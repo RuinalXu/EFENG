@@ -1,0 +1,11 @@
+numpy==1.23.4
+pandas==1.5.1
+scikit_learn==1.2.1
+tensorboardX==2.6
+timm==0.4.12
+torch==1.11.0+cu113
+tqdm==4.64.1
+transformers==4.26.0
+easydict==1.13
+dashscope==1.20.9
+tensorboard==2.16.2

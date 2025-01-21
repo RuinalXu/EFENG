@@ -1,0 +1,22 @@
+[
+    {
+        "llm_predict": 0,
+        "rationale_list": [
+            {
+                "analytical_perspective": "Verification of Source",
+                "rationale": "The information about the death of 'Bachelorette' contestant Michael Nance at age 31 can be cross-verified with multiple reputable news sources and official statements."
+            },
+            {
+                "analytical_perspective": "Timeliness and Context",
+                "rationale": "The event described is time-bound and specific, which can be checked against known records and announcements from relevant authorities or family members."
+            },
+            {
+                "analytical_perspective": "Public Records and Statements",
+                "rationale": "Public records such as obituaries, police reports, and statements from family members or representatives confirm the occurrence of the event."
+            }
+        ],
+        "content": "'Bachelorette' Contestant Michael Nance Dies At Age 31",
+        "label": 0,
+        "source_id": 0
+    }
+]
