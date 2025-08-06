@@ -9,7 +9,7 @@ env/
 
 # PyCharm files
 .idea
-.idea/*
+.idea/*.*
 
 # System files
 .DS_Store
