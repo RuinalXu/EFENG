@@ -2,7 +2,7 @@
 
 ---
 
-This is official repository for "*[Explainable Fake News Detection with Generated Rationales from Large Language Models](论文链接)*".
+This is official repository for "*[Leveraging Multi-Perspective LLM-Generated Rationales for Explainable Fake News Detection](论文链接)*".
 
 ## Datasets
 
